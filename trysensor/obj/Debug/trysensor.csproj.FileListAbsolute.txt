@@ -1,0 +1,11 @@
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.csprojAssemblyReference.cache
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.Form1.resources
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.Properties.Resources.resources
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.csproj.GenerateResource.cache
+C:\Users\Fortez\source\repos\trysensor\trysensor\bin\Debug\trysensor.exe.config
+C:\Users\Fortez\source\repos\trysensor\trysensor\bin\Debug\trysensor.exe
+C:\Users\Fortez\source\repos\trysensor\trysensor\bin\Debug\trysensor.pdb
+C:\Users\Fortez\source\repos\trysensor\trysensor\bin\Debug\MySql.Data.dll
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.csproj.CopyComplete
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.exe
+C:\Users\Fortez\source\repos\trysensor\trysensor\obj\Debug\trysensor.pdb
